@@ -28,7 +28,9 @@
 更多信息 [发布](https://facebook.github.io/create-react-app/docs/deployment) .
 
 
-## 其它
+## 参考
+
+[customize-cra](https://github.com/arackaf/customize-cra)
 
 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
